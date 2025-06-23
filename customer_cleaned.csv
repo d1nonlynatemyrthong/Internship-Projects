@@ -1,0 +1,8 @@
+Id,Name,Gender,Age,Joindate,Country,Email_Address,Income
+2,Jane Smith,F,29,2020-01-15,UNITED STATES,jane.smith@mail.com,48408.0
+3,Bob Lee,M,29,2020-01-15,USA,bob.lee@mail.com,72000.0
+4,Alice Wong,F,33,2020-01-15,UK,alice.wong@mail.com,67000.0
+5,John Doe,M,28,2020-01-15,US,john.doe@mmail.com,55000.0
+7,Samuel Tan,M,30,2020-01-15,SINGAPORE,sam.tan@mail.com,48408.0
+8,Alex Martin,F,22,2020-01-15,SINGAPORE,alex.martin@mail.com,48000.0
+10,Jacob Lee,M,30,2021-11-11,USA,jacob.lee@mail.com,48408.0
