@@ -1,0 +1,11 @@
+ID,Name,Gender,age,JoinDate,Country,Email Address,Income
+1,John Doe,Male,28,1/15/2020,US,,55000
+2,jane SMITH,female,29,15/01/2020,united states,jane.smith@mail.com,
+3,Bob Lee,MALE,,1/15/2020,Usa,bob.lee@mail.com,72000
+4,Alice Wong,Female,33,1/15/2020,UK,alice.wong@mail.com,67000
+5,John Doe,male,28,1/15/2020,US,john.doe@mmail.com,55000
+6,,F,,N/A,united kingdom,,44000
+7,Samuel Tan,M,30,1/15/2020,Singapore,sam.tan@mail.com,
+8,ALEX MARTIN,Female,22,2020.01.15,SINGAPORE,alex.martin@mail.com,48000
+9,joe Hardy,Male,18,,,,45000
+10,Jacob Lee,M,30,11/11/2021,USA,jacob.lee@mail.com,40
